@@ -54,6 +54,7 @@
 </head>
 
 <body>
+    <!-- Biodata -->
 <div class="container bg col d-flex justify-content-center align-items-center">
     <div class="card col-8">
         <div class="row no-gutters">

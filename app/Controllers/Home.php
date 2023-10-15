@@ -6,6 +6,7 @@ class Home extends BaseController
 {
     public function index(): string
     {
+        // Biodata
         $data = [
             'nama' => 'Josefa Didameska Banjarnahor',
             'email' => 'josefadidameskabanjarnahor@gmail.com',
